@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+.head{
+  width: 100%;
+  height: 108px;
+  background-color: rgba(1,174,69,255);
+  margin-bottom: 1px;
+  z-index:100;
+  position: fixed;
+  border-bottom: 1px solid white;
+  
+  
+}
+.head span{
+  font-size: 22PX;
+  font-weight: 500;
+}
+body{
+  margin:0;
+  font-family: "Dosis",sans-serif;
+} 
+
+.logo{
+  height: 80px;
+  width: 80px;
+  padding-left: 25px;
+  padding-top: 0px;
+  margin-right: 770px;
+
+}
+.spn{
+  color: white;
+  font-size: 25px;
+  margin-left: 35px;
+  
+  
+}
+.social{
+  width: 30px;
+  height: 30px;
+  margin-left: 50px;
+  
+}
+.insta{
+  width: 30px;
+  height: 30px;
+}
+.tiktok{
+width: 30px;
+height: 30px;
+}
+.web{
+  width: 30px;
+  height: 30px;
+}
+.youtube{
+  width: 30px;
+  height: 30px;
+}
+.pintrest{
+  width: 30px;
+  height: 30px;
+}
+.middle{
+  width:100%;
+  position: relative;
+  padding-top: 110px;
+}
+.middle br{
+  font-weight: 700;
+}
+.image{
+width: 100%;
+}
+main{
+
+}
+.text{
+  width: 400px;
+  height: 225px;
+  background-color: rgba(1,174,69,255);
+  position: absolute;
+  top: 400px;
+  left: 150px;
+  text-decoration-color: rgb(247, 249, 251);
+  font-family: "Dosis",sans-serif;
+  font-size: 70px;
+  font-weight: 800;
+  font-style: normal;
+  color: white;
+  letter-spacing: 3px;
+  line-height: 1;
+}
+.button{
+  position: absolute;
+  top: 150px;
+  left: 10px;
+  border: 2px solid white;
+  border-radius: 1px;
+  border-radius: 30px;
+  padding: 10px;
+  background-color: transparent;
+  color: white;
+  width: 200px;
+  height: 50px;
+}
+.pos{
+  line-height: 20;
+}
+.recipetextbanner{
+  border-style: solid;
+  color: black;
+}
+.textbanner{
+  position: relative;
+  margin-top: -3px;
+}
+.banner{
+  width: 100%;
+}
+.childtext{
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: 
+  translate(-50%,-50%);
+  background-color: rgba(25,92,25,0.787);
+  border-radius: 100px;
+  height: 9rem;
+  width: 41rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+  color: white;
+}
+.recipes{
+  
+  border: 2px solid white;
+  border-radius: 100px;
+  margin-bottom: 30px;
+  color: white;
+  width: 160px;
+  height: 50px;
+  
+  background-color: transparent;
+  border-radius: 30px;
+  color: white;
+  font-size: 15px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.childtext h1{
+  padding-top: 50px;
+  margin-bottom: 5px;
+}
+.textbanner2{
+  position: relative;
+  margin-top: -4px;
+}
+
+.banner2{
+  width: 100%;
+}
+.childtext2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: 
+  translate(-50%,-50%);
+  background-color: rgba(25,92,25,0.787);
+  border-radius: 100px;
+  height: 9rem;
+  width: 41rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+  color: white;
+}
+.childtext2 h1{
+  padding-top: 50px;
+}
+.product{
+  border: 2px solid white;
+  border-radius: 100px;
+  margin-bottom: 30px;
+  color: white;
+  width: 160px;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 30px;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.foot ul{
+  list-style: none;
+  display: flex;
+  gap:20px;
+  justify-content: center;
+  padding-top: 15px;
+  font-size: 15px;
+  font-weight: 700;
+  
+}
+footer{
+  margin-top: -17px;
+  background-color: #3e3e3e;
+  padding-bottom: 25px;
+  font-size: 10px;
+  color: white;
+  
+}
+.foot p{
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 14px;
+
+}
